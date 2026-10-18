@@ -1,0 +1,16 @@
+app_name,has_sms_permission,has_camera_permission,has_contacts_permission,background_data_usage_mb,overlay_permission
+WhatsApp,0,1,1,45,0
+Google Maps,0,1,0,30,0
+Calculator,0,0,0,1,0
+Spotify,0,0,0,55,0
+Instagram,0,1,1,70,0
+Notes,0,0,0,2,0
+Weather,0,0,0,18,0
+Banking App,1,1,0,14,0
+Flashlight Pro,1,1,1,310,1
+Free Wallpapers HD,1,0,1,260,1
+System Update Service,1,1,1,420,1
+Battery Saver Plus,0,1,1,380,1
+PDF Reader,0,0,0,6,0
+Camera Filters,0,1,0,25,0
+QuickCash Loan,1,1,1,190,1
